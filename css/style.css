@@ -93,17 +93,17 @@ header {
 }
 
 .icon {
-    display: inline-flex;              /* Center icon content */
+    display: inline-flex;             
     align-items: center;
     justify-content: center;
-    width: 50px;                        /* Icon width */
-    height: 50px;                       /* Icon height */
-    background-color: #6b4428;          /* Background color */
-    color: white;                       /* Icon/text color */
-    border-radius: 50%;                 /* Fully rounded (circle) */
-    font-size: 24px;                    /* Icon size */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Optional shadow */
-    cursor: pointer;                    /* Pointer on hover */
+    width: 50px;                       
+    height: 50px;                      
+    background-color: #6b4428;        
+    color: white;                     
+    border-radius: 50%;                
+    font-size: 24px;                   
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
+    cursor: pointer;                   
     transition: background-color 0.3s;
 }
 
